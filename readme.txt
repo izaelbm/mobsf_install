@@ -11,3 +11,4 @@ virtualenv -p python3 venv
 source venv/bin/activate
 pip install -r requirements.txt
 python manage.py runserver
+./run.sh 127.0.0.1:8000
