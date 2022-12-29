@@ -19,8 +19,10 @@ STEP 4
 #Download and install Mobsf
 $git clone https://github.com/MobSF/Mobile-Security-Framework-MobSF.git
 $cd Mobile-Security-Framework-MobSF
-**** Change code (manage.py) => FROM python -m venv venv TO python -m venv venv --without-pip ******
 $./setup.sh
+
+se der erro
+**** Change code (manage.py) => FROM python -m venv venv TO python -m venv venv --without-pip ******
 
 STEP 5
 #in the root directory run this commans.
